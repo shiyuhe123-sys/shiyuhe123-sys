@@ -22,5 +22,4 @@ Recorded hardware prototype using an MPU9250 complementary filter and PID motor 
 
 - [LinkedIn](https://www.linkedin.com/in/yuhe-shi-610806291)
 - [Email](mailto:yuhe.shi.24@ucl.ac.uk)
-- Portfolio link will be added after the evidence-first redesign is selected and published.
-
+- [Engineering portfolio](https://yuhe-shi-engineering-portfolio-27irrcibh.vercel.app)
