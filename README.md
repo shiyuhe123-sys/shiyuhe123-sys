@@ -14,9 +14,11 @@ Assessed hardware project: forward/inverse kinematics, servo calibration and cub
 
 Recorded hardware prototype using an MPU9250 complementary filter and PID motor control. The repository preserves the original firmware, a **29-second uncut recorded observation**, and a safer v2 controller explicitly labelled **not yet hardware validated**.
 
-### Air-quality UAV — current engineering project
+### [Quadrotor flight modelling and air-quality UAV](https://github.com/shiyuhe123-sys/uav-air-quality-sensing)
 
-**Pre-flight design verification.** Reviewing propulsion, power, sensor integration, mass and staged validation for a georeferenced air-quality sampling platform. No flight or measurement claims are made yet.
+Built and configured a Tarot 650/Pixhawk 6C quadrotor and developed a six-degree-of-freedom MATLAB/Simulink model. The first flight on **28 September 2026** supported AI-assisted flight-log analysis, replay diagnostics and 3-D comparison.
+
+**Conditional RTL tracking:** **0.10 m altitude RMSE** and **0.21 m horizontal RMSE** over **9.3 seconds**, initialized once from logged state and driven by recorded targets. Whole-flight and independent-flight prediction remain unresolved; sensor-mount completion and air-quality measurements are pending.
 
 ## Contact
 
